@@ -1,0 +1,34 @@
+
+/* 
+    Created on : 26/07/2018, 21:33:19
+    Author     : 181410024
+*/
+
+table{
+    border: blue 1px solid;   
+}
+.btnExluir{
+    background-color: red;
+    color: white;
+    border-radius: 5px 15px 15px 5px;
+}
+.btnEditar{
+    background-color: greenyellow;
+    color: blue;
+    border-radius: 15px 0px 0px 15px;
+}
+.btnEnviar{
+    background-color: blue;
+    color: yellow;
+    border-radius: 10px;
+}
+.btnVisualizar{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+
+tr:hover{
+    background: #ccc;
+}
+
