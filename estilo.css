@@ -31,4 +31,10 @@ table{
 tr:hover{
     background: #ccc;
 }
+#menu{
+    background-color: aqua;
+    border: blue 1px solid; 
+    border-radius: 8px;
+    padding: 5px;
+}
 

@@ -1,5 +1,5 @@
-<header 
-    style="border: blue 1px solid; padding: 5px;" >
+<header id="menu"
+    style="" >
     <a href="index.php">
         <button>Início</button></a>
     
