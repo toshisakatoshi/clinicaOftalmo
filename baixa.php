@@ -65,7 +65,7 @@ session_start();
             if( isset( $_SESSION['baixa'] ) && 
                     count($_SESSION['baixa']) > 0 ){
                 
-                echo '<a href="controller/salvarPedido.php" ><button>Finalizar Baixa</button></a>';
+                echo '<a href="controller/salvarPedido.php" ><button class="flb">Finalizar Baixa</button></a>';
                 
                 $total = 0;
                 echo '<table border="1"> ';
@@ -94,7 +94,7 @@ session_start();
                     echo '  <td>R$ '.str_replace('.', ',', $subtotal).'</td>';
                     echo '  <td>
                                 <a href="?remover&idProduto='.$produto->getId().'">
-                                    <button>Excluir Produto</button>
+                                    <button class="exp">Excluir Produto</button>
                                 </a>
                             </td>';
                     echo '</tr>';

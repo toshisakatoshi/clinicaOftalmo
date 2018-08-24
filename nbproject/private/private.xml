@@ -2,6 +2,15 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/xampp/htdocs/clinicaOftalmo/frmCliente.php</file>
+            <file>file:/C:/xampp/htdocs/clinicaOftalmo/categoria.php</file>
+            <file>file:/C:/xampp/htdocs/clinicaOftalmo/model/clsCliente.php</file>
+            <file>file:/C:/xampp/htdocs/clinicaOftalmo/estilo.css</file>
+            <file>file:/C:/xampp/htdocs/clinicaOftalmo/frmProduto.php</file>
+            <file>file:/C:/xampp/htdocs/clinicaOftalmo/categorias.php</file>
+            <file>file:/C:/xampp/htdocs/clinicaOftalmo/produtos.php</file>
+            <file>file:/C:/xampp/htdocs/clinicaOftalmo/cabecalho.php</file>
+        </group>
     </open-files>
 </project-private>

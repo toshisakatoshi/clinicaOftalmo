@@ -45,10 +45,10 @@
             }
             
         ?>
-        <h1 align="center">Cliente</h1>
+        <h1 align="center" class="cadclie">Cliente</h1>
         
         <a href="frmCliente.php">
-            <button>Cadastrar Cliente</button></a>
+            <button class="cadclie">Cadastrar Cliente</button></a>
         
         <br>
         <br>

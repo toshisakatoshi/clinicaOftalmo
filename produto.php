@@ -34,10 +34,10 @@
             }
             
         ?>
-        <h1 align="center">Produto</h1>
+         <h1 align="center" class="cadprod">Produto</h1>
         
         <a href="frmProduto.php">
-            <button>Cadastrar Produto</button></a>
+            <button class="cadprod">Cadastrar Produto</button></a>
         
         <br>
         <br>

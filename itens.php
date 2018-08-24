@@ -9,6 +9,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
+           <link href="estilo.css" type="text/css" rel="stylesheet" />
         <title>Clinica Oftalmo - Itens da Baixa</title>
     </head>
      <body >
@@ -19,7 +20,7 @@
           
             
         ?>
-        <h1 align="center">Itens da Baixa</h1>
+         <h1 align="center" class="btnVisualizar">Itens da Baixa</h1>
         
        
         <br>

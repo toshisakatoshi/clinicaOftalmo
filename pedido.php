@@ -34,7 +34,7 @@
             }
             
         ?>
-        <h1 align="center">Baixa de Produto</h1>
+         <h1 align="center" class="btnVisualizar">Baixa de Produto</h1>
         
        
         <br>
