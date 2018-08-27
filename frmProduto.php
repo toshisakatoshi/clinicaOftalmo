@@ -48,12 +48,13 @@
     <head>
         <meta charset="UTF-8">
         <title>Clinca Oftalmo - Cadastrar Produto</title>
+        <link href="estilo.css" type="text/css" rel="stylesheet" />
     </head>
     <body>
         <?php
             require_once 'cabecalho.php';
         ?>
-        <h1 align="center">Cadastrar Produto</h1>
+        <h1 align="center" class="cadcat">Cadastrar Produto</h1>
         
         <br><br>
         
@@ -89,8 +90,8 @@
             </select> <br><br> 
             
             
-            <input type="submit" value="Salvar" />
-            <input type="reset" value="Limpar" />
+            <input type="submit" value="Salvar" class="catsalv" />
+            <input type="reset" value="Limpar" class="catlim" />
             
         </form>
         

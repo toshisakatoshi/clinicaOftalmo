@@ -37,4 +37,46 @@ tr:hover{
     border-radius: 8px;
     padding: 5px;
 }
+h1{
+    background: blue;
+}
+
+.cadcat{
+    background-color: blueviolet;
+}
+
+.cadprod{
+    background-color: blueviolet;
+}
+.catsalv{
+    background-color: brown;
+}
+.catlim{
+    background-color: chartreuse;
+}
+.catsalva{
+    background-color: darkorange;
+}
+.cadclie{
+    background-color: lightseagreen;
+}
+.cadsalvcli{
+    background-color: darkcyan;
+}
+.cadlimcli{
+    background-color: gold;
+}
+ h2{
+    background-color: darkcyan;
+}
+.usuri{
+    background-color: darkcyan;
+}
+
+.exp{
+    background-color: brown;
+}
+.flb{
+    background-color: cadetblue;
+}
 

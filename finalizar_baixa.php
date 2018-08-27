@@ -5,6 +5,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
+          <link href="estilo.css" type="text/css" rel="stylesheet" />
         <title>Clinica Oftalmo</title>
     </head>
     <body>

@@ -31,7 +31,7 @@
             <legend>Cadastrar nova Categoria</legend>
             <label>Nome: </label>
             <input type="text" name="nome" required />
-            <input type="submit" value="Salvar" />
+            <input type="submit" value="Salvar" class="catsalva" />
         </form>
         
         <hr>

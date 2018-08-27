@@ -36,13 +36,15 @@
 <html>
     <head>
         <meta charset="UTF-8">
+           <link href="estilo.css" type="text/css" rel="stylesheet" />
         <title>Clinica Oftalmo</title>
+        
     </head>
     <body>
         <?php
             require_once 'cabecalho.php';
         ?>
-        <h1 align="center">Usuário</h1>
+        <h1 align="center" class="usuri">Usuário</h1>
         
         <br><br>
         
@@ -78,8 +80,8 @@
             <label>Confirme sua Senha: </label>
             <input type="password" name="senha2" /> <br><br>
             
-            <input type="submit" value="Salvar" />
-            <input type="reset" value="Limpar" />
+            <input type="submit" value="Salvar" class="cadsalvcli" />
+            <input type="reset" value="Limpar" class="cadlimcli" />
             
         </form>
         
