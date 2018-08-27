@@ -10,6 +10,7 @@
         <title>Clinica Oftalmo</title>
         <link href="logo.css" type="text/css" rel="stylesheet" />
         <link href="estilo.css" type="text/css" rel="stylesheet" />
+        
     </head>
     <body>
         <?php
@@ -30,6 +31,8 @@
         <div id="container">
             <img src="Logo 1.jpg" id="logo" alt="Logo da empresa" />
         </div>
+        
+        
         
         
         
