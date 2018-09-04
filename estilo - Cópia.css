@@ -1,0 +1,102 @@
+
+/* 
+    Created on : 26/07/2018, 21:33:19
+    Author     : 181410024
+*/
+
+table{
+    border: blue 1px solid;   
+}
+.btnExluir{
+    background-color: red;
+    color: white;
+    border-radius: 5px 15px 15px 5px;
+}
+.btnEditar{
+    background-color: greenyellow;
+    color: blue;
+    border-radius: 15px 0px 0px 15px;
+}
+.btnEnviar{
+    background-color: blue;
+    color: yellow;
+    border-radius: 10px;
+}
+.btnVisualizar{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+
+tr:hover{
+    background: #ccc;
+}
+#menu{
+    background-color: aqua;
+    border: blue 1px solid; 
+    border-radius: 8px;
+    padding: 5px;
+}
+h1{
+    background: blue;
+}
+
+.cadcat{
+    background-color: blueviolet;
+}
+
+.cadprod{
+    background-color: blueviolet;
+}
+.catsalv{
+    background-color: brown;
+}
+.catlim{
+    background-color: chartreuse;
+}
+.catsalva{
+    background-color: darkorange;
+}
+.cadclie{
+    background-color: lightseagreen;
+}
+.cadsalvcli{
+    background-color: darkcyan;
+}
+.cadlimcli{
+    background-color: gold;
+}
+ h2{
+    background-color: darkcyan;
+}
+.usuri{
+    background-color: darkcyan;
+}
+
+.exp{
+    background-color: brown;
+}
+.flb{
+    background-color: cadetblue;
+}
+#fundo{
+    background-image: url("Logo_1.jpg");
+    background-size: contain;
+    background-repeat: no_repeat;
+    background-position: center;
+   
+    
+}
+
+
+.car{
+    width: 20%;
+    margin-left: 30%;
+    margin-top: 0%;
+    margin-right: 0%;
+    position: absolute;right: 20px
+   
+}
+
+
+

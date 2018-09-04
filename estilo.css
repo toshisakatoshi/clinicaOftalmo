@@ -1,35 +1,15 @@
-
-/* 
-    Created on : 26/07/2018, 21:33:19
-    Author     : 181410024
-*/
-
-table{
-    border: blue 1px solid;   
+body{
+	background-color: #ccc;
 }
-.btnExluir{
-    background-color: red;
-    color: white;
-    border-radius: 5px 15px 15px 5px;
+.container{
+	background-color: #FFF;	
+	width: 1280px;
 }
-.btnEditar{
-    background-color: greenyellow;
-    color: blue;
-    border-radius: 15px 0px 0px 15px;
+.control-label{
+  width: 50px !important;
 }
-.btnEnviar{
-    background-color: blue;
-    color: yellow;
-    border-radius: 10px;
-}
-.btnVisualizar{
-    background-color: green;
-    color: white;
-    border-radius: 10px;
-}
-
-tr:hover{
-    background: #ccc;
+.botao{
+	margin: 20px 0 0 120px;
 }
 #menu{
     background-color: aqua;
@@ -37,8 +17,20 @@ tr:hover{
     border-radius: 8px;
     padding: 5px;
 }
-h1{
-    background: blue;
+#formulario *{
+    
+}
+#banner{
+	
+}
+footer{
+    background-color: #f00;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size:  20px;
+    position: fixed;
+    bottom: 0px;
 }
 
 .cadcat{
@@ -80,3 +72,26 @@ h1{
     background-color: cadetblue;
 }
 
+table{
+    border: blue 1px solid;   
+}
+.btnExluir{
+    background-color: red;
+    color: white;
+    border-radius: 5px 15px 15px 5px;
+}
+.btnEditar{
+    background-color: greenyellow;
+    color: blue;
+    border-radius: 15px 0px 0px 15px;
+}
+.btnEnviar{
+    background-color: blue;
+    color: yellow;
+    border-radius: 10px;
+}
+.btnVisualizar{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}

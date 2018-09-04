@@ -1,5 +1,4 @@
-<header id="menu"
-    style="" >
+<header id="menu">
     <a href="index.php">
         <button>Início</button></a>
     
