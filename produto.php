@@ -37,7 +37,7 @@
          <h1 align="center" class="cadprod">Produto</h1>
         
         <a href="frmProduto.php">
-            <button class="cadprod">Cadastrar Produto</button></a>
+            <button class="cadprodu">Cadastrar Produto</button></a>
         
         <br>
         <br>
@@ -79,7 +79,7 @@
             </tr>
             
             <?php
-            
+            $i = 1;
             foreach ($lista as $produto) {  
                 
                 $total += $produto->getPreco()*$produto->getQuantidade();
@@ -97,7 +97,7 @@
                 
             ?>
             <tr style="background-color: <?php echo $cor; ?>">
-                <td><?php echo $produto->getId(); ?></td>
+                <td><?php echo $i++ ?></td>
                 <td><?php echo $produto->getNome(); ?></td>
                 <td><?php echo $produto->getCodigoBarras(); ?></td>
                 <td><?php echo str_replace(".", ",", $produto->getPreco() ); ?></td>

@@ -38,8 +38,15 @@ footer{
 }
 
 .cadprod{
-    background-color: blueviolet;
+    background-color:#5bc0de ;
 }
+.cadprodu{
+    background-color: #5bc0de;
+}
+.catego{
+    background-color: #FFF
+}
+
 .catsalv{
     background-color: brown;
 }
@@ -94,4 +101,13 @@ table{
     background-color: green;
     color: white;
     border-radius: 10px;
+}
+.baix{
+    background-color: green;
+}
+.inicio{
+    background-color: #bfbfbf;
+}
+.sair{
+    background-color: #ee5f5b;
 }

@@ -24,7 +24,7 @@
         <?php
             require_once 'cabecalho.php';
         ?>
-        <h1 align="center">Categoria</h1>
+        <h1 align="center" class="catego">Categoria</h1>
         
         <br><br>
         <form action="controller/salvarCategoria.php?inserir" method="POST">

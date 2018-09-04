@@ -1,9 +1,10 @@
 <header id="menu">
     <a href="index.php">
-        <button>Início</button></a>
+         <link href="estilo.css" rel="stylesheet" />
+         <button class="inicio">Início</button></a>
     
     <a href="produto.php">
-        <button>Produtos</button></a>
+        <button class="cadprod">Produtos</button></a>
     
         <?php
        
@@ -21,15 +22,15 @@
     
    
     <a href="cliente.php">
-        <button>Clientes</button></a>
+        <button class="cadclie">Clientes</button></a>
     
     
     
     <a href="pedido.php">
-        <button>Baixas</button></a>
+        <button class="baix">Baixas</button></a>
     
     <a href="sair.php">
-        <button>Sair</button></a>
+        <button class="sair">Sair</button></a>
     
     
     <?php echo $_SESSION['nome'] ?>, seja bem-vindo
